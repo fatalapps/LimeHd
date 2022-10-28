@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="windowBackground">#232427</color>
+    <color name="secondaryBackground">#343438</color>
+    <color name="lightBackground">#404247</color>
+    <color name="transparent">#00ffffff</color>
+</resources>

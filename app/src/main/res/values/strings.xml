@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">LimeHdTest</string>
+    <string name="all">Все</string>
+    <string name="favourites">Избранные</string>
+    <string name="searchHint">Напишите название телеканала</string>
+    <string name="auto">AUTO</string>
+</resources>

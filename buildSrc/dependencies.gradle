@@ -1,0 +1,35 @@
+ext {
+
+    min_sdk_version = 23
+    target_sdk_version = 32
+    compile_sdk_version = 32
+
+
+    kotlin_coroutine_version = "1.6.1"
+    dagger_version = "2.42"
+    room_version = "2.4.3"
+    retrofit_version = "2.9.0"
+    glide_version = "4.12.0"
+    recyclerView_version = "1.2.1"
+    lifecycle_ktx_version = "2.5.1"
+    lifecycle_extensions_version = "2.2.0"
+    exoPlayer_version = "2.18.1"
+
+    deps = [
+            kotlin_coroutines_android : "org.jetbrains.kotlinx:kotlinx-coroutines-android:$kotlin_coroutine_version",
+            kotlin_coroutines :  "org.jetbrains.kotlinx:kotlinx-coroutines-core:$kotlin_coroutine_version",
+            dagger: "com.google.dagger:dagger:$dagger_version",
+            daggerCompiler: "com.google.dagger:dagger-compiler:$dagger_version",
+            roomCompiler: "androidx.room:room-compiler:$room_version",
+            roomRuntime: "androidx.room:room-runtime:$room_version",
+            roomKtx: "androidx.room:room-ktx:$room_version",
+            retrofit: "com.squareup.retrofit2:retrofit:$retrofit_version",
+            retrofitGson: "com.squareup.retrofit2:converter-gson:$retrofit_version",
+            glide: "com.github.bumptech.glide:glide:$glide_version",
+            recyclerView: "androidx.recyclerview:recyclerview:$recyclerView_version",
+            lifecycleRuntime: "androidx.lifecycle:lifecycle-runtime-ktx:$lifecycle_ktx_version",
+            lifecycleViewModel: "androidx.lifecycle:lifecycle-viewmodel-ktx:$lifecycle_ktx_version",
+            lifecycleExtensions: "androidx.lifecycle:lifecycle-extensions:$lifecycle_extensions_version",
+            exoPlayer: "com.google.android.exoplayer:exoplayer:$exoPlayer_version"
+    ]
+}

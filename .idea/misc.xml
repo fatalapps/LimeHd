@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="app/src/main/res/drawable/bottom_shadowed.xml" value="0.149" />
+        <entry key="app/src/main/res/drawable/favourite_icon.xml" value="0.1575" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.12454710144927536" />
+        <entry key="app/src/main/res/layout/channel_list_item_holder.xml" value="0.27779998779296877" />
+        <entry key="app/src/main/res/layout/channel_list_tem_holder.xml" value="0.146875" />
+        <entry key="app/src/main/res/layout/channels_list_fragment.xml" value="0.12454710144927536" />
+        <entry key="app/src/main/res/layout/main_pager_layout.xml" value="0.1" />
+        <entry key="app/src/main/res/layout/player_controls.xml" value="0.3450439146800502" />
+        <entry key="app/src/main/res/layout/player_layout.xml" value="0.1390625" />
+        <entry key="app/src/main/res/menu/quality_menu.xml" value="0.2947916666666667" />
+        <entry key="app/src/main/res/xml/network_security_config.xml" value="0.14010416666666667" />
+        <entry key="common-ui/src/main/res/layout/activity_main.xml" value="0.14010416666666667" />
+      </map>
+    </option>
+  </component>
+  <component name="ExternalStorageConfigurationManager" enabled="true" />
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK" />
+</project>
